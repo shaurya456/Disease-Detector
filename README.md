@@ -31,9 +31,7 @@ This web application uses machine learning to predict multiple diseases based on
    ```
 2. Open your web browser and go to `http://localhost:8501` to interact with the app.
 
-## Deployment
 
-The app is deployed on Streamlit Cloud. You can access it (https://mlwebapp-x.streamlit.app/).
 
 ## Contributing
 
